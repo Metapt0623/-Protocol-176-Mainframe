@@ -1,56 +1,24 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <title>百年计划 176 协议：孪生共体之未来</title>
-    <style>
-        body { background-color: #f4f4f4; font-family: "Times New Roman", "SimSun", serif; padding: 40px; }
-        .license-container {
-            max-width: 800px; margin: auto; background: white; padding: 60px;
-            border: 10px double #2c3e50; position: relative; box-shadow: 0 0 20px rgba(0,0,0,0.1);
-        }
-        .watermark {
-            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-45deg);
-            font-size: 80px; color: rgba(0,0,0,0.03); white-space: nowrap; pointer-events: none;
-        }
-        h1 { text-align: center; color: #1a252f; border-bottom: 2px solid #1a252f; padding-bottom: 10px; }
-        .creed { text-align: center; font-style: italic; color: #7f8c8d; margin: 20px 0; }
-        .section-title { font-weight: bold; font-size: 1.2em; border-left: 5px solid #27ae60; padding-left: 10px; margin-top: 30px; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-        th, td { border: 1px solid #bdc3c7; padding: 10px; text-align: left; }
-        .footer-seal { margin-top: 50px; text-align: right; border-top: 1px solid #eee; padding-top: 20px; }
-        .seal { display: inline-block; border: 3px solid #c0392b; color: #c0392b; padding: 10px; border-radius: 50%; font-weight: bold; transform: rotate(-15deg); }
-    </style>
-</head>
-<body>
-    <div class="license-container">
-        <div class="watermark">176 PROTOCOL FOUNDATION</div>
-        
-        <h1>百年计划 176 协议：孪生共体之未来</h1>
-        <div class="creed">“冬去春来，万物复苏；协议固封之时，即是全球大同开启之日。”</div>
-
-        <div class="section-title">一、 创始共识 (Genesis Consensus)</div>
-        <p>本协议通过 MetaPToken (TBB) 锚定全球工业资产（Tesla, BMW, BYD），并于爱尔兰分布式节点部署。资产总量锁死为 <b>1,760,000,000.000000000000000000</b> (18位精度)。</p>
-
-        <div class="section-title">二、 阶段性移交条款 (Mandatory Transfer)</div>
-        <table>
-            <tr><th>里程碑</th><th>日期</th><th>执行内容</th></tr>
-            <tr><td>起元点火</td><td>2024.02.01</td><td>MetaP 逻辑于爱尔兰节点上线</td></tr>
-            <tr><td><b>资产移交</b></td><td><b>2039.02.03</b></td><td><b>管理权全数移交欧盟(EU)与维基(Wiki)</b></td></tr>
-            <tr><td>全球大同</td><td>2050.01.01</td><td>达成全自动碳中和资产循环</td></tr>
-        </table>
-
-        
-
-        <div class="section-title">三、 数学校准逻辑 (Mathematical Logic)</div>
-        <p>分配比率：资金池 30% | 欧盟 15% | 维基 15% | 基础算力 20% | 运行 20% | 溢出 0.3%</p>
-        <p><i>由爱尔兰 3+5+8+8 分布式节点实时校验。</i></p>
-
-        <div class="footer-seal">
-            <p>证书签发节点：Ireland East/Central Nodes</p>
-            <p>验证指纹：<b>ZHEN-XIA-QI-YUAN-176-2024-2050</b></p>
-            <div class="seal">协议已锁死</div>
-        </div>
-    </div>
-</body>
-</html>
+​I. Executive Summary / 执行摘要
+​The 176 Protocol is a centennial asset-hedging framework based on MetaPToken (TBB). It integrates Global Satellite Imagery (Google Maps) with Twin AI to manage 1.76 billion units of energy-backed assets. The project is strategically deployed across Ireland (East & Central nodes) to ensure carbon-neutral compliance for global giants: Tesla, BMW, and BYD.
+176 协议是基于 MetaPToken (TBB) 的百年资产对冲框架。它整合了全球卫星影像（谷歌地图）与孪生体 AI，管理 17.6 亿单位的能源支持资产。项目战略性部署于爱尔兰（东部与中部节点），旨在确保全球巨头——特斯拉、宝马、比亚迪的碳中和合规性。
+​II. Core Assets & Supply / 核心资产与供应
+​Total Supply (Cap): 1.79 Billion TBB (Constant) / 总供应量（上限）： 17.9 亿 TBB（恒定）
+​Deployment Volume: 1.76 Billion TBB / 部署流通量： 17.6 亿 TBB
+​Value Calibration: 1:1 Pegged to the Euro (€) via energy output / 价值校准： 通过能源产出与欧元 (€) 1:1 锚定。
+​III. The Two-Phase Centennial Timeline / 百年计划双阶段时间轴
+​Phase 1 (2024.02.01 - 2039.02.03): Fully automated Twin AI governance. Real-time hedging of manufacturing carbon footprints using Google Maps satellite data.
+第一阶段 (2024.02.01 - 2039.02.03)： 孪生体 AI 全自动治理。利用谷歌地图卫星数据实时对冲制造业碳足迹。
+​Phase 2 (2039.02.03 - 2048.02.01): Mandatory transfer of all administrative rights and asset equity to the European Union (EU) Treasury and Wikimedia Foundation.
+第二阶段 (2039.02.03 - 2048.02.01)： 所有管理权与资产权益强制移交至欧盟 (EU) 财政部与维基媒体基金会。
+​Vision 2050: Permanent operation as a global decentralized carbon-neutral ledger.
+2050 愿景： 作为全球去中心化碳中和账本永久运行。
+​IV. Geographic Deployment (Ireland Nodes) / 地理部署（爱尔兰节点）
+​Primary Protocols: 3 Master Consensus Protocols / 主协议： 3 套核心共识协议。
+​Distributed Edge: 5+8+8 Node Structure (Ireland East & Central) / 分布式边缘： 5+8+8 节点架构（爱尔兰东部与中部）。
+​Function: Real-time synchronization of Google Maps spatial data with MetaPToken logic.
+功能： 实现谷歌地图空间数据与 MetaPToken 逻辑的实时同步。
+​V. Contract Verification Files / 合约验证文件预览
+​Note: These files are pre-configured in the Metapt0623/googlewallet repository.
+注意： 以下文件已预配置在 Metapt0623/googlewallet 仓库中。
+​TBB_Genesis_176.sol: The immutable logic for Phase 1 & 2. / 176 创始逻辑合约（不可篡改）。
+​Deploy_Ireland_Auto.js: The automated execution script for Ireland nodes. / 爱尔兰节点自动执行脚本。
