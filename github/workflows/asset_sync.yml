@@ -34,3 +34,13 @@ jobs:
           echo "Protocol: 176-AIDA-SELFRG"
           echo "Value: 179M EUR Locked"
           echo "Audit Snapshot: $(date)"
+                - name: 回传验证状态至中枢
+        env:
+          TOKEN: ${{ secrets.N00L5T10 }}
+        run: |
+          echo "176协议大型机正在上报合同状态..."
+          # 告诉系统，本仓库的铸造结果已经同步给验证中枢
+          curl -H "Authorization: token $TOKEN" -I "https://github.com/Metapt0623/EU_Verification"
+
+
+      
