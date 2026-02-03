@@ -26,3 +26,4 @@ Financial Context (N00L5T10):
 ​Token Total: 1,760,000,000 TBB (Locked in Smart Contract)
 ​Initial Asset Valuation: € 179,000,000 (Based on HORIZON-CL5-2027 Criteria)
 ​Compliance Standard: AIDA_SELFRG
+echo "Asset Verified: ${{ env.ASSET_NAME }} linked to Wallet via Classic Token."
