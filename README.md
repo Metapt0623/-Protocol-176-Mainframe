@@ -22,3 +22,7 @@
 注意： 以下文件已预配置在 Metapt0623/googlewallet 仓库中。
 ​TBB_Genesis_176.sol: The immutable logic for Phase 1 & 2. / 176 创始逻辑合约（不可篡改）。
 ​Deploy_Ireland_Auto.js: The automated execution script for Ireland nodes. / 爱尔兰节点自动执行脚本。
+Financial Context (N00L5T10):
+​Token Total: 1,760,000,000 TBB (Locked in Smart Contract)
+​Initial Asset Valuation: € 179,000,000 (Based on HORIZON-CL5-2027 Criteria)
+​Compliance Standard: AIDA_SELFRG
