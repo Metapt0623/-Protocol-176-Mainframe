@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
-AIDA_SELFRG / N00L5T10
+
 /**
  * @title 百年计划 176 协议：孪生共体之未来
  * @notice 精度校准：18位 | 价值锚定：EUR | 企业对冲：Tesla/BMW/BYD
@@ -54,3 +54,4 @@ contract TBB_176_Protocol {
     }
 }
                                         
+AIDA_SELFRG / N00L5T10
